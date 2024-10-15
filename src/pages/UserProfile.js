@@ -45,7 +45,7 @@ function UserProfile() {
                 <p>Age:{profile.age || 'Loading...'}</p> 
             </div>
             <button onClick={updateProfile}>
-                Click to contact
+                Click to contact!
             </button>
         </div> 
     ); 
